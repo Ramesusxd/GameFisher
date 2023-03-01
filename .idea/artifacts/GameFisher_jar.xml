@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GameFisher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameFisher_jar</output-path>
+    <root id="archive" name="GameFisher.jar">
+      <element id="module-output" name="GameFisher" />
+    </root>
+  </artifact>
+</component>
